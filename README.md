@@ -1,4 +1,4 @@
-# styleguides
+# Style Guides
 Style Guides for various Languages
 
 * [C#](https://github.com/raywenderlich/c-sharp-style-guide)
