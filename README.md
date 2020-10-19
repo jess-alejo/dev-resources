@@ -1,4 +1,7 @@
-# Developer Resources
+# Resources For Developers
+
+## Free
+* [Free for developers](https://free-for.dev/#/)
 
 ## Style Guides
 Style Guides for various Languages
@@ -6,7 +9,3 @@ Style Guides for various Languages
 * [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
 * [Ruby](https://rubystyle.guide/)
 * [JavaScript](https://github.com/airbnb/javascript)
-
-
-# Free Resources For Developers
-* [Free for developers](https://free-for.dev/#/)
