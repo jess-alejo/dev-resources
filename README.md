@@ -2,6 +2,7 @@
 
 ## Free
 * [Free for developers](https://free-for.dev/#/)
+* [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
 ## Style Guides
 Style Guides for various Languages
