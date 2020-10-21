@@ -1,6 +1,6 @@
 # Resources For Developers
 ## CSS
-* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 
 ## Free
 * [Free for developers](https://free-for.dev/#/)
