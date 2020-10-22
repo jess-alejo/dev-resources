@@ -5,6 +5,9 @@
 ## CSS
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 
+## Fonts
+* [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
+
 ## Free
 * [Free for developers](https://free-for.dev/#/)
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
