@@ -4,6 +4,7 @@
 
 ## CSS
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
+* [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 
 ## Fonts
 * [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
