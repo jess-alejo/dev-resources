@@ -2,6 +2,8 @@
 ## CDN
 * [cdnjs](https://cdnjs.com/) - a free and open-source CDN service powered by Cloudflare for faster and easier loading of library files on your websites.
 
+## Color Scheme
+* [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
 ## CSS
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 * [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
