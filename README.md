@@ -15,6 +15,10 @@
 * [Free for developers](https://free-for.dev/#/)
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
+## Ruby on Rails
+* [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Interate Tailwind CSS in your Ruby on Rails app
+* [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
+
 ## Style Guides
 Style Guides for various Languages
 * [C#](https://github.com/raywenderlich/c-sharp-style-guide)
@@ -22,6 +26,5 @@ Style Guides for various Languages
 * [Ruby](https://rubystyle.guide/)
 * [JavaScript](https://github.com/airbnb/javascript)
 
-## Ruby on Rails
-* [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Interate Tailwind CSS in your Ruby on Rails app
-* [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
+# Testing
+* [BrowserStack](https://www.browserstack.com) - app and browser testing
