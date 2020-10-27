@@ -20,6 +20,11 @@
 * [Free for developers](https://free-for.dev/#/)
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
+## Learning Platform | Online Courses
+* [Code With Mosh](https://codewithmosh.com/)
+* [LinkedIn Learning](https://www.linkedin.com/learning/)
+* [Udemy](https://www.udemy.com/)
+
 ## Ruby
 * [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 
@@ -36,5 +41,5 @@ Style Guides for various Languages
 * [Ruby](https://rubystyle.guide/)
 * [JavaScript](https://github.com/airbnb/javascript)
 
-# Testing
+## Testing
 * [BrowserStack](https://www.browserstack.com) - app and browser testing
