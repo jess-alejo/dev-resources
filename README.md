@@ -10,9 +10,10 @@
 * [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
 
 ## CSS
-* [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
-* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
+* [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 * [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
+* [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 
 ## Fonts
 * [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
@@ -38,9 +39,10 @@
 ## Style Guides
 Style Guides for various Languages
 * [C#](https://github.com/raywenderlich/c-sharp-style-guide)
-* [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
-* [Ruby](https://rubystyle.guide/)
 * [JavaScript](https://github.com/airbnb/javascript)
+* [Ruby](https://rubystyle.guide/)
+* [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
+
 
 ## Testing
 * [BrowserStack](https://www.browserstack.com) - app and browser testing
