@@ -10,6 +10,7 @@
 * [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
 
 ## CSS
+* [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 * [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 
