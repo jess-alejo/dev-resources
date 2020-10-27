@@ -17,7 +17,9 @@
 
 ## Ruby on Rails
 * [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Interate Tailwind CSS in your Ruby on Rails app
+* [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 * [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
+
 
 ## Style Guides
 Style Guides for various Languages
