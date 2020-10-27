@@ -2,6 +2,9 @@
 ## CDN
 * [cdnjs](https://cdnjs.com/) - a free and open-source CDN service powered by Cloudflare for faster and easier loading of library files on your websites.
 
+## Coding Challenges
+* [Codewars](https://www.codewars.com/) - a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills.
+
 ## Color Scheme
 * [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
 * [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
