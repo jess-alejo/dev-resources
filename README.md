@@ -22,6 +22,9 @@
 * [Free for developers](https://free-for.dev/#/)
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
+## Icons
+* [The Noun Project](https://thenounproject.com/) - Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.
+
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
 * [LinkedIn Learning](https://www.linkedin.com/learning/)
