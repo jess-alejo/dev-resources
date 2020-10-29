@@ -33,6 +33,7 @@
 ## Online Editor
 * [CodePen](https://codepen.io/) - an online code editor and front end web developer community
 ## Ruby
+* [Long live Ruby](https://longliveruby.com/) - Home for the Ruby programming language and all related topics like Ruby on Rails, Sinatra other Ruby frameworks, and ruby gems
 * [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 
 ## Ruby on Rails
