@@ -30,6 +30,8 @@
 * [LinkedIn Learning](https://www.linkedin.com/learning/)
 * [Udemy](https://www.udemy.com/)
 
+## Online Editor
+* [CodePen](https://codepen.io/) - an online code editor and front end web developer community
 ## Ruby
 * [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 
