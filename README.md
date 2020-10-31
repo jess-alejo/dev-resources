@@ -32,6 +32,7 @@
 
 ## Online Editor
 * [CodePen](https://codepen.io/) - an online code editor and front end web developer community
+
 ## Ruby
 * [Long live Ruby](https://longliveruby.com/) - Home for the Ruby programming language and all related topics like Ruby on Rails, Sinatra other Ruby frameworks, and ruby gems
 * [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
@@ -42,7 +43,6 @@
 * [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 * [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
 
-
 ## Style Guides
 Style Guides for various Languages
 * [C#](https://github.com/raywenderlich/c-sharp-style-guide)
@@ -50,6 +50,8 @@ Style Guides for various Languages
 * [Ruby](https://rubystyle.guide/)
 * [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
 
-
 ## Testing
 * [BrowserStack](https://www.browserstack.com) - app and browser testing
+
+## Youtube
+* [Railscasts Reloaded](https://www.youtube.com/user/RailscastsReloaded)
