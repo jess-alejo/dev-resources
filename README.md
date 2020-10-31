@@ -28,6 +28,7 @@
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
 * [LinkedIn Learning](https://www.linkedin.com/learning/)
+* [Logos by Nick](https://logosbynick.com/professional-logo-design/)
 * [Udemy](https://www.udemy.com/)
 
 ## Online Editor
