@@ -8,6 +8,7 @@
 ## Color Scheme
 * [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
 * [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
+* [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs.
 
 ## CSS
 * [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
