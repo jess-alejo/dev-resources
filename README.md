@@ -48,6 +48,7 @@
 ## Style Guides
 Style Guides for various Languages
 * [C#](https://github.com/raywenderlich/c-sharp-style-guide)
+* [Code Guide](https://codeguide.co/) - standards for developing consistent, flexible, and sustainable HTML and CSS
 * [JavaScript](https://github.com/airbnb/javascript)
 * [Ruby](https://rubystyle.guide/)
 * [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
