@@ -29,6 +29,7 @@
 
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
+* [freeCodeCamp.org](https://www.freecodecamp.org/)
 * [LinkedIn Learning](https://www.linkedin.com/learning/)
 * [Logos by Nick](https://logosbynick.com/professional-logo-design/)
 * [Udemy](https://www.udemy.com/)
