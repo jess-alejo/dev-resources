@@ -57,5 +57,20 @@ Style Guides for various Languages
 ## Testing
 * [BrowserStack](https://www.browserstack.com) - app and browser testing
 
+## VS Code Extensions
+* [GitLens](https://github.com/eamodio/vscode-gitlens) - supercharges the Git capabilities built into Visual Studio Code
+* [Rubocop for Visual Studio Code](https://github.com/misogi/vscode-ruby-rubocop) - Rubocop extension for Visual Studio Code
+* [Ruby Test Explorer](https://github.com/connorshea/vscode-ruby-test-adapter) - a Ruby test adapter extension for the VS Code Test Explorer
+* [Visual Studio Code Ruby](https://github.com/rubyide/vscode-ruby) - provides Ruby language and debugging support for Visual Studio Code
+* [Test Explorer for Visual Studio Code](https://github.com/hbenl/vscode-test-explorer) - the VS Code Test Explorer extension
+* [VS Code Solargraph](https://github.com/castwide/vscode-solargraph) - a Visual Studio Code extension for Solargraph.
+* [vscode-icons](https://github.com/vscode-icons/vscode-icons) - icons for Visual Studio Code
+
+```bash
+gem install solargraph
+gem install ruby-debug-ide
+gem install rubocop
+```
+
 ## Youtube
 * [Railscasts Reloaded](https://www.youtube.com/user/RailscastsReloaded)
