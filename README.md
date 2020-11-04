@@ -28,6 +28,10 @@
 ## Icons
 * [The Noun Project](https://thenounproject.com/) - Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.
 
+## Images
+* [Pexels](https://www.pexels.com/) - Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
+* [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
+
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
 * [freeCodeCamp.org](https://www.freecodecamp.org/)
