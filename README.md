@@ -39,6 +39,9 @@
 * [Logos by Nick](https://logosbynick.com/professional-logo-design/)
 * [Udemy](https://www.udemy.com/)
 
+## Linux
+* [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+
 ## Online Editor
 * [CodePen](https://codepen.io/) - an online code editor and front end web developer community
 
