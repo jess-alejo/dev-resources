@@ -14,6 +14,8 @@
 * [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 * [CSS Diner](https://flukeout.github.io/) - a fun game to help you learn and practice CSS selectors.
 * [CSS-Tricks](https://css-tricks.com/) - daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+* [cubic-bezier](https://cubic-bezier.com/) - a playground that helps you create your custom cubic bezier functions.
+* [Easing Functions Cheat Sheet](https://easings.net/) - a collection of easings (timing functions).
 * [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 * [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
