@@ -19,6 +19,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 * [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
+* [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 
 ## Fonts
 * [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
