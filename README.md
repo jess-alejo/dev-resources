@@ -35,6 +35,9 @@
 * [Pexels](https://www.pexels.com/) - Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
 * [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
 
+## Javascript
+* [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
+
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
 * [freeCodeCamp.org](https://www.freecodecamp.org/)
