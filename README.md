@@ -89,4 +89,8 @@ gem install rubocop
 ```
 
 ## Youtube
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [GoRails](https://www.youtube.com/channel/UCIQmhQxCvLHRr3Beku77tww)
+* [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 * [Railscasts Reloaded](https://www.youtube.com/user/RailscastsReloaded)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
