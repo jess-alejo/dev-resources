@@ -73,6 +73,10 @@ Style Guides for various Languages
 ## Testing
 * [BrowserStack](https://www.browserstack.com) - app and browser testing
 
+## UI/UX
+* [13 UX Tips that will change the way you design](https://www.illuminz.com/blog/13-ux-tips-will-change-way-design)
+* [Simple, Useful Design Tips For UI/UX Designers](https://digitalsynopsis.com/design/ui-ux-design-tips/)
+
 ## VS Code Extensions
 * [GitLens](https://github.com/eamodio/vscode-gitlens) - supercharges the Git capabilities built into Visual Studio Code
 * [Rubocop for Visual Studio Code](https://github.com/misogi/vscode-ruby-rubocop) - Rubocop extension for Visual Studio Code
