@@ -26,6 +26,7 @@
 * [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
 
 ## Free
+* [Awesome](https://github.com/sindresorhus/awesome) - awesome lists about all kinds of interesting topics
 * [Free for developers](https://free-for.dev/#/)
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
@@ -37,7 +38,9 @@
 * [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
 
 ## Javascript
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - clean Code concepts adapted for JavaScript
 * [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
@@ -53,6 +56,7 @@
 * [CodePen](https://codepen.io/) - an online code editor and front end web developer community
 
 ## Ruby
+* [Awesome Ruby](https://github.com/markets/awesome-ruby#authorization) - a collection of awesome Ruby libraries, tools, frameworks and software
 * [Long live Ruby](https://longliveruby.com/) - Home for the Ruby programming language and all related topics like Ruby on Rails, Sinatra other Ruby frameworks, and ruby gems
 * [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 
