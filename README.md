@@ -31,11 +31,17 @@
 * [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
 ## Icons
+* [Flaticon](https://www.flaticon.com/) - free icons in the largest database of free vector icons
 * [The Noun Project](https://thenounproject.com/) - Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 3 million art-quality icons and photos.
 
 ## Images
 * [Pexels](https://www.pexels.com/) - Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
 * [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
+
+## Inspirations
+* [Awwwards](https://www.awwwards.com/) - website awards, best web design trends
+* [Behance](https://www.behance.net/) - creative network for showcasing and discovering creative work
+* [Dribbble](https://dribbble.com/) - where designers gain inspiration, feedback, community, and jobs
 
 ## Javascript
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - clean Code concepts adapted for JavaScript
