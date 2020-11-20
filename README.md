@@ -2,8 +2,13 @@
 ## CDN
 * [cdnjs](https://cdnjs.com/) - a free and open-source CDN service powered by Cloudflare for faster and easier loading of library files on your websites.
 
-## Coding Challenges
+## Coding Challenges | Games
+* [CSS Diner](https://flukeout.github.io/) - a fun game to help you learn and practice CSS selectors.
 * [Codewars](https://www.codewars.com/) - a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills.
+* [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
+* [Flexbox Zombies](https://mastery.games/flexboxzombies)
+* [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 
 ## Color Scheme
 * [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
@@ -12,13 +17,9 @@
 
 ## CSS
 * [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
-* [CSS Diner](https://flukeout.github.io/) - a fun game to help you learn and practice CSS selectors.
 * [CSS-Tricks](https://css-tricks.com/) - daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 * [cubic-bezier](https://cubic-bezier.com/) - a playground that helps you create your custom cubic bezier functions.
 * [Easing Functions Cheat Sheet](https://easings.net/) - a collection of easings (timing functions).
-* [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
-* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
-* [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 * [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 * [loading.io](https://loading.io/) - loading icons and animation generator
 
