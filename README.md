@@ -10,12 +10,12 @@
 - [Codewars](https://www.codewars.com/) - a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
-- [Flexbox Zombies](https://mastery.games/flexboxzombies)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies) - a brand new training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 - [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 
 ## Color Scheme
 
-- [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), css and html color codes.
+- [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), CSS and html color codes.
 - [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
 - [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs.
 
