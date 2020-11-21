@@ -101,7 +101,7 @@
 
 ## Ruby on Rails
 
-- [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Interate Tailwind CSS in your Ruby on Rails app
+- [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
 - [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
 - [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
@@ -141,7 +141,7 @@ gem install ruby-debug-ide
 gem install rubocop
 ```
 
-## Youtube
+## YouTube
 
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [GoRails](https://www.youtube.com/channel/UCIQmhQxCvLHRr3Beku77tww)
