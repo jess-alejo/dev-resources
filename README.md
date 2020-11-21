@@ -49,6 +49,22 @@
 * [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
+## JavaScript Chart Libraries
+* [Chartist.js](https://gionkunz.github.io/chartist-js/) - Simple responsive charts
+* [FusionCharts](https://github.com/fusioncharts/fusioncharts-dist) - JavaScript charts for web & mobile
+* [Dygraphs](https://dygraphs.com/index.html) - dygraphs is a fast, flexible open source JavaScript charting library.
+* [Chart.js](https://www.chartjs.org/) - an easy way to include animated, interactive graphs on your website for free.
+* [Highcharts](https://www.highcharts.com/) - Interactive JavaScript charts for your webpage
+* [D3.js](https://d3js.org/) - is a JavaScript library for manipulating documents based on data.
+* [n3-charts](https://n3-charts.github.io/line-chart/) - JavaScript library for creating beautiful charts in AngularJS applications and it is built on top of D3.js
+* [Ember Charts](https://www.javascripting.com/view/ember-charts) - A charting library built with the Ember.js and d3.js frameworks.
+* [Sigma.js](https://github.com/jacomyal/sigma.js) - a JavaScript library dedicated to graph drawing.
+* [Morris.js](https://morrisjs.github.io/morris.js/) - good-looking charts shouldn't be difficult
+* [Cytoscape.js](https://js.cytoscape.org/) - allows you to easily display and manipulate rich, interactive graphs.
+* [Rickshaw](https://github.com/shutterstock/rickshaw) - an open-source JavaScript toolkit for creating interactive time-series graphs and charts.
+* [Plottable.js](https://github.com/erichiller/plottable) - a library of chart components for creating flexible, custom charts for websites.
+* [Canvas.js](https://canvasjs.com/javascript-charts/) - JavaScript Charting Library with 10x better performance & a simple API.
+
 ## Learning Platform | Online Courses
 * [Code With Mosh](https://codewithmosh.com/)
 * [freeCodeCamp.org](https://www.freecodecamp.org/)
