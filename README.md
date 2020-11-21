@@ -77,6 +77,10 @@
 - [Plottable.js](https://github.com/erichiller/plottable) - a library of chart components for creating flexible, custom charts for websites.
 - [Canvas.js](https://canvasjs.com/javascript-charts/) - JavaScript Charting Library with 10x better performance & a simple API.
 
+## JavaScript Games
+
+- [40+ FREE Games With Source Code (HTML+CSS+JavaScript)](http://www.iamrohit.in/free-games-source-code/)
+
 ## Learning Platform | Online Courses
 
 - [Code With Mosh](https://codewithmosh.com/)
