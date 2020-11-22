@@ -106,6 +106,7 @@
 ## Ruby on Rails
 
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
+- [Insert page specific CSS or JS using content_for](https://rubyyagi.com/page-specific-css-js/) - an article on how we can use `content_for` to insert CSS link files or JS script files.
 - [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
 - [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
