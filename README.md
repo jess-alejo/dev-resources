@@ -6,8 +6,8 @@
 
 ## Coding Challenges | Games
 
-- [CSS Diner](https://flukeout.github.io/) - a fun game to help you learn and practice CSS selectors.
 - [Codewars](https://www.codewars.com/) - a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills.
+- [CSS Diner](https://flukeout.github.io/) - a fun game to help you learn and practice CSS selectors.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code.
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) - a super cool pen which shows and lets you play with almost everything in flexbox.
 - [Flexbox Zombies](https://mastery.games/flexboxzombies) - a brand new training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
