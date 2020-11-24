@@ -59,6 +59,7 @@
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - clean Code concepts adapted for JavaScript
 - [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links to further readings
+* [Use console.log() like a pro!](https://denic.hashnode.dev/use-consolelog-like-a-pro)
 
 ## JavaScript Chart Libraries
 
