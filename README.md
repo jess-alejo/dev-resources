@@ -59,6 +59,7 @@
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - clean Code concepts adapted for JavaScript
 - [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 * [Use console.log() like a pro!](https://denic.hashnode.dev/use-consolelog-like-a-pro)
 
 ## JavaScript Chart Libraries
@@ -108,6 +109,7 @@
 
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
 - [Insert page specific CSS or JS using content_for](https://rubyyagi.com/page-specific-css-js/) - an article on how we can use `content_for` to insert CSS link files or JS script files.
+- [Just Another Twitter Clone with Rails 6, CableReady, and Stimulus Reflex](https://emmanuel-oseguera.medium.com/rails-cableready-and-stimulus-reflex-a90dc297a975)
 - [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
 - [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
