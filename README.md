@@ -108,6 +108,7 @@
 ## Ruby on Rails
 
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
+- [Integrate HTML Bootstrap Theme Into Rails](https://rubyyagi.com/how-to-integrate-html-bootstrap-theme-into-rails-6/#copying-css-and-images) - How to integrate HTML / Bootstrap template into Rails 6
 - [Insert page specific CSS or JS using content_for](https://rubyyagi.com/page-specific-css-js/) - an article on how we can use `content_for` to insert CSS link files or JS script files.
 - [Just Another Twitter Clone with Rails 6, CableReady, and Stimulus Reflex](https://emmanuel-oseguera.medium.com/rails-cableready-and-stimulus-reflex-a90dc297a975)
 - [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
