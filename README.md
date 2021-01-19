@@ -113,6 +113,7 @@
 - [Just Another Twitter Clone with Rails 6, CableReady, and Stimulus Reflex](https://emmanuel-oseguera.medium.com/rails-cableready-and-stimulus-reflex-a90dc297a975)
 - [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
 - [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
+- [Rails Service Objects: A Comprehensive Guide](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) - This article discuss what is a service object, when to use it and what are pros and cons of using it.
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
 
 ## Style Guides
