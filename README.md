@@ -116,6 +116,7 @@
 - [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 - [Rails Service Objects: A Comprehensive Guide](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) - This article discuss what is a service object, when to use it and what are pros and cons of using it.
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
+- [Test Driven Rails](https://thoughtbot.com/upcase/test-driven-rails) - Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
 
 ## Style Guides
 
