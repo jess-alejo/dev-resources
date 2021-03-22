@@ -31,6 +31,7 @@
 ## Fonts
 
 - [GoogleFonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
+- [Type Scale - A Visual Calculator](https://type-scale.com) - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.
 
 ## Free
 
