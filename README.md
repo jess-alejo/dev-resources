@@ -39,6 +39,10 @@
 - [Free for developers](https://free-for.dev/#/)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
+## HTML
+
+- [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/) - Easily generate the optimal responsive image dimensions
+
 ## Icons
 
 - [Flaticon](https://www.flaticon.com/) - free icons in the largest database of free vector icons
@@ -107,6 +111,7 @@
 - [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 
 ## Ruby on Rails
+
 - [Boring Rails](https://boringrails.com) - Learn about the boring tools and practices used by Basecamp, GitHub, and Shopify to keep you as happy and productive as the day you typed rails new
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
 - [How to install TailwindCSS v2.0 using Ruby on Rails](https://web-crunch.com/posts/how-to-install-tailwind-css-2-using-ruby-on-rails) - a walk through to the steps to ensure the current versions of Tailwind CSS and Ruby on Rails get along, install Tailwind CSS and configure it as well.
