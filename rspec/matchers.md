@@ -88,3 +88,26 @@ context 'using satisfy matcher' do
   end
 end
 ```
+
+```ruby
+context 'using not_to matcher' do
+  it 'checks for the inverse of a matcher' do
+    expect(1).not_to eq 2
+    expect([1, 2, 3]).not_to equal [1, 2, 3]
+
+    expect(1).not_to be_even
+    expect([1, 2, 3]).not_to be_empty
+
+    expect(nil).not_to be_truthy
+    expect(1).not_to be_falsy
+
+    expect('utopia').not_to start_with 'you'
+    expect('utopia').not_to end_with 'war'
+
+    expect({ a: 1, b: 2, c: 3 }).not_to respond_to :upcase
+    expect([1, 2, 3]).not_to include 4
+
+    expect { 1 / 3 }.not_to raise_error(ZeroDivisionError)
+  end
+end
+```
