@@ -111,3 +111,18 @@ context 'using not_to matcher' do
   end
 end
 ```
+
+
+```ruby
+context 'using compound matchers' do
+  it 'supports multiple matchers on single line' do
+    expect([1, 2, 3].sample).to eq(1).or eq(2).or eq(3)
+    expect('motorboat').to start_with('motor').and end_with('boat')
+  end
+
+  describe 10 do
+    it { is_expected.to be_even.and be > 1 }
+    it { is_expected.to be_odd.or be > 1 }
+  end
+end
+```
