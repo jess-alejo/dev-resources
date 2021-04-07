@@ -1,30 +1,39 @@
 ### Matchers
 
 ```ruby
-it 'checks that a method changes object state' do
-  numbers = [1, 2, 3]
-  expect { numbers.push(4) }.to change { numbers.length }.from(3).to(4)
+context 'using change matcher' do
+  it 'checks that a method changes object state' do
+    numbers = [1, 2, 3]
+    expect { numbers.push(4) }.to change { numbers.length }.from(3).to(4)
+  end
 end
 ```
 
 ```ruby
-it 'checks for the substring at the beginning' do
-  expect('category').to start_with('cat')
+context 'using start_with matcher' do
+  it 'checks for the substring at the beginning' do
+    expect('category').to start_with('cat')
+  end
 end
 
-it 'checks for the substring at the end' do
-  expect('dopamine').to end_with('mine')
-end
-```
-
-```ruby
-it 'checks for object attributes and values' do
-  expect(car).to have_attributes(maker: 'Volvo', model: 'XC40')
+context 'using end_with matcher' do
+  it 'checks for the substring at the end' do
+    expect('dopamine').to end_with('mine')
+  end
 end
 ```
 
 ```ruby
-describe 'include matcher' do
+context 'using have_attributes matcher' do
+  describe({a: 1, b: 2, c: 3}) do
+    it { is_expected.to have_attributes(keys: [:a, :b, :c]) }
+    it { is_expected.to have_attributes(values: [1, 2, 3]) }
+  end
+end
+```
+
+```ruby
+context 'using include matcher' do
   describe('plethora') do
     it { is_expected.to include 'thor' }
   end
@@ -41,7 +50,7 @@ end
 ```
 
 ```ruby
-describe 'raise_error matcher' do
+context 'using raise_error matcher' do
   describe([1, 2, 3]) do
     it 'raise TypeError' do
       expect { subject + 1 }.to raise_error(TypeError)
@@ -55,7 +64,7 @@ end
 ```
 
 ```ruby
-describe 'respond_to matcher' do
+context 'using respond_to matcher' do
   describe('a simple string') do
     it { is_expected.to respond_to :size }
     it { is_expected.to respond_to :upcase }
