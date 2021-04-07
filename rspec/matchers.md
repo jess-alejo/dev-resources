@@ -80,3 +80,11 @@ context 'using respond_to matcher' do
   end
 end
 ```
+
+```ruby
+context 'using satisfy matcher' do
+  describe 'racecar' do
+    it { is_expected.to satisfy('be a palidrome') { |v| v.reverse == v } }
+  end
+end
+```
