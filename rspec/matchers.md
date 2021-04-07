@@ -53,3 +53,21 @@ describe 'raise_error matcher' do
   end
 end
 ```
+
+```ruby
+describe 'respond_to matcher' do
+  describe('a simple string') do
+    it { is_expected.to respond_to :size }
+    it { is_expected.to respond_to :upcase }
+  end
+
+  describe([1, 2, 3]) do
+    it { is_expected.to respond_to :size }
+    it { is_expected.to respond_to(:push).with(1).arguments }
+  end
+
+  describe({a: 1, b: 2, c: 3}) do
+    it { is_expected.to respond_to :size, :keys }
+  end
+end
+```
