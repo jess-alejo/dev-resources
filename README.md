@@ -113,6 +113,7 @@
 ## Ruby on Rails
 
 - [Boring Rails](https://boringrails.com) - Learn about the boring tools and practices used by Basecamp, GitHub, and Shopify to keep you as happy and productive as the day you typed rails new
+- [Dockerize your Rails app](https://gist.github.com/hopsoft/c27da1a9fda405169994a004957597b4)
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
 - [How to install TailwindCSS v2.0 using Ruby on Rails](https://web-crunch.com/posts/how-to-install-tailwind-css-2-using-ruby-on-rails) - a walk through to the steps to ensure the current versions of Tailwind CSS and Ruby on Rails get along, install Tailwind CSS and configure it as well.
 - [Integrate HTML Bootstrap Theme Into Rails](https://rubyyagi.com/how-to-integrate-html-bootstrap-theme-into-rails-6/#copying-css-and-images) - How to integrate HTML / Bootstrap template into Rails 6
