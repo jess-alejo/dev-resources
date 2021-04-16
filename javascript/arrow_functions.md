@@ -36,7 +36,7 @@ const isEvenNumber = number => number % 2 === 0
 
 ##### Array.map
 
-Used to transform an element of an array.
+Use to transform an element of an array.
 
 ```javascript
 const fruits = ["apple", "banana", "cherry"]
@@ -47,7 +47,7 @@ const items = fruits.map(fruit => `<li>${fruit}</li>`)
 
 ##### Object Destructuring
 
-Used to simplify the assigning object properties into a variable.
+Use to simplify the assigning object properties into a variable.
 
 ```javascript
 // given a person object
@@ -76,7 +76,7 @@ const { lastName, firstName: givenName, middleName } = person
 
 ##### Spread Operator
 
-Used to expand an iterable (array, string, object)
+Use to expand an iterable (array, string, object)
 
 ```javascript
 // combine an array
@@ -107,4 +107,129 @@ const person = { firstName: "John", lastName: "Doe" }
 const address = { address: "", city: "", state: "" }
 
 const profile = { ...person, ...address }
+```
+
+##### Classes
+
+Use to blueprint an object
+
+```javascript
+class Car {
+  constructor(maker) {
+    this.maker = maker
+  }
+
+  startEngine() {
+    console.log("started")
+  }
+}
+
+const car = new Car("Honda")
+car.startEngine()
+```
+
+##### Inheritance
+
+Use to inherit properties of an existing class
+
+```javascript
+class RacingCar extends Car {
+  constructor(brand, isTurboCharging) {
+    super(brand)
+    this.isTurboCharging = isTurboCharging
+  }
+
+  enableTurbo() {
+    if (isTurboCharging) {
+      console.log("run at max speed")
+    }
+  }
+}
+
+const racecar = new RacingCar("ferari")
+console.log(racecar.startEngine())
+```
+
+##### Modules
+
+Use to modularize objects
+
+```javascript
+// src/models/person.js
+
+export class Person {
+  constructor(name) {
+    this.name = name
+  }
+
+  walk() {
+    console.log("walk")
+  }
+}
+```
+
+```javascript
+// src/models/instructor.js
+
+import { Person } from "./person"
+
+export class Instructor extends Person {
+  constructor(name, field) {
+    super(name)
+    this.field = field
+  }
+
+  teach() {
+    console.log("teach")
+  }
+}
+```
+
+```javascript
+// src/index.js
+import { Instructor } from "src/models/instructor"
+
+const instructor = new Instructor("Ms. Page", "Science")
+```
+
+##### Named and Default Exports
+
+Named exports are explicitly exported objects in a module file:
+
+```javascript
+import { Component } from "react"
+```
+
+Default exports, there is only one default
+
+```javascript
+import React from "react"
+```
+
+Given an Athlete class:
+
+```javascript
+// src/models/athlete.js
+
+import { Person } from "./person"
+export function getHeartbeat() {}
+
+export default class Athlete extends Person {
+  constructor(name, skill) {
+    super(name)
+    this.skill = skill
+  }
+
+  perform() {
+    console.log("performing")
+  }
+}
+```
+
+```javascript
+// index.js
+import Athlete, { getHeartbeat } from "./athlete"
+
+const athlete = new Athlete("Michael Pelps", "butterfly")
+athlete.perform()
 ```
