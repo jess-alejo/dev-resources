@@ -27,6 +27,7 @@
 - [Easing Functions Cheat Sheet](https://easings.net/) - a collection of easings (timing functions).
 - [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 - [loading.io](https://loading.io/) - loading icons and animation generator
+- [Milligram](https://milligram.io/) - A minimalist CSS framework
 
 ## Fonts
 
