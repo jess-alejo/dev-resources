@@ -162,6 +162,9 @@ gem install ruby-debug-ide
 gem install rubocop
 ```
 
+## WSL
+- [Setting up WSL2, Windows Terminal and oh-my-zsh](https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/)
+
 ## YouTube
 
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
