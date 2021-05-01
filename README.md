@@ -102,6 +102,10 @@
 
 - [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
+## NGINX
+
+- [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
+
 ## Online Editor
 
 - [CodePen](https://codepen.io/) - an online code editor and front end web developer community
@@ -163,6 +167,7 @@ gem install rubocop
 ```
 
 ## WSL
+
 - [Setting up WSL2, Windows Terminal and oh-my-zsh](https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/)
 
 ## YouTube
