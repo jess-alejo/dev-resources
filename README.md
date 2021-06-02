@@ -173,6 +173,7 @@ gem install rubocop
 
 ## YouTube
 
+- [Dev.Tube](https://dev.tube/) - a free and open-source tech video hub
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [GoRails](https://www.youtube.com/channel/UCIQmhQxCvLHRr3Beku77tww)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
