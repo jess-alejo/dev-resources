@@ -171,7 +171,7 @@ gem install rubocop
 
 - [Setting up WSL2, Windows Terminal and oh-my-zsh](https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/)
 
-## YouTube
+## YouTube and Free Videos
 
 - [Dev.Tube](https://dev.tube/) - a free and open-source tech video hub
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
