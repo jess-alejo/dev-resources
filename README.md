@@ -40,6 +40,10 @@
 - [Free for developers](https://free-for.dev/#/)
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
+## Git
+- [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+
 ## HTML
 
 - [Formspree](https://formspree.io/) - a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms.
