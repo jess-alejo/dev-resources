@@ -28,6 +28,7 @@
 - [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 - [loading.io](https://loading.io/) - loading icons and animation generator
 - [Milligram](https://milligram.io/) - A minimalist CSS framework
+- [Sass](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
 ## Emet
 - [Emmet](https://emmet.io/)
