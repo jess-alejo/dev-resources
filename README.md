@@ -125,6 +125,7 @@
 - [Long live Ruby](https://longliveruby.com/) - Home for the Ruby programming language and all related topics like Ruby on Rails, Sinatra other Ruby frameworks, and ruby gems
 - [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 - [Ruby Format String Examples](https://www.dotnetperls.com/format-ruby) - usage of the format string syntax. See examples for formatting values in many ways and compare performance against string interpolation
+- [Rubular](https://rubular.com/) - A Ruby-based regular expression editor
 
 ## Ruby on Rails
 
