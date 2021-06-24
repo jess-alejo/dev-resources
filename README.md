@@ -1,5 +1,7 @@
 # Resources For Developers
 
+## C#
+- [CSharpHelper](http://www.csharphelper.com/howto_index.html)
 ## CDN
 
 - [cdnjs](https://cdnjs.com/) - a free and open-source CDN service powered by Cloudflare for faster and easier loading of library files on your websites.
