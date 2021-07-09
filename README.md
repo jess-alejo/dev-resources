@@ -67,7 +67,7 @@
 - [Pexels](https://www.pexels.com/) - Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
 - [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
 
-## Inspirations
+## UI Inspirations
 
 - [Awwwards](https://www.awwwards.com/) - website awards, best web design trends
 - [Behance](https://www.behance.net/) - creative network for showcasing and discovering creative work
@@ -113,6 +113,9 @@
 ## Linux
 
 - [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+
+## Motivation
+- [DevOps Roadmap](https://roadmap.sh/devops) - Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.
 
 ## NGINX
 
