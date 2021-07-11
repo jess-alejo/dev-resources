@@ -136,6 +136,7 @@
 ## Ruby on Rails
 
 - [Boring Rails](https://boringrails.com) - Learn about the boring tools and practices used by Basecamp, GitHub, and Shopify to keep you as happy and productive as the day you typed rails new
+- [Deploying a rails application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html)
 - [Dockerize your Rails app](https://gist.github.com/hopsoft/c27da1a9fda405169994a004957597b4)
 - [FULL-STACK INTRODUCTION USING RAILS, REACT, DOCKER AND HEROKU](https://rowant.co.uk/full-stack-introduction-using-rails-react-docker-and-heroku/)
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
@@ -148,6 +149,7 @@
 - [Rails Service Objects: A Comprehensive Guide](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) - This article discuss what is a service object, when to use it and what are pros and cons of using it.
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
 - [Test Driven Rails](https://thoughtbot.com/upcase/test-driven-rails) - Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
+
 
 ## Style Guides
 
