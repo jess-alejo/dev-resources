@@ -135,6 +135,7 @@
 
 ## Ruby on Rails
 
+- [Blogging on Rails](https://onrails.blog/stimulus-js-tutorials/) - Everything on Rails!
 - [Boring Rails](https://boringrails.com) - Learn about the boring tools and practices used by Basecamp, GitHub, and Shopify to keep you as happy and productive as the day you typed rails new
 - [Deploying a rails application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html)
 - [Dockerize your Rails app](https://gist.github.com/hopsoft/c27da1a9fda405169994a004957597b4)
