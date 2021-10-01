@@ -199,3 +199,6 @@ gem install rubocop
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [Railscasts Reloaded](https://www.youtube.com/user/RailscastsReloaded)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+## Worth Investing
+- [CSS for JS](https://css-for-js.dev/) - The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.
