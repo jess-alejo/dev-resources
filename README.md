@@ -153,6 +153,11 @@
 - [Test Driven Rails](https://thoughtbot.com/upcase/test-driven-rails) - Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
 - [Lessons - Back-End Engineering Curriculum - Turing School of Software and Design](https://backend.turing.edu/module2/lessons/)
 
+## SSH
+- [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
+- [Diffie Hellman -the Mathematics bit- Computerphile](https://www.youtube.com/watch?v=Yjrfm_oRO0w)
+- [Key Exchange Problems - Computerphile](https://www.youtube.com/watch?v=vsXMMT2CqqE&t=)
+- [Elliptic Curves - Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 
 ## Style Guides
 
