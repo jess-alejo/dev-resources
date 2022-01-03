@@ -154,10 +154,15 @@
 - [Lessons - Back-End Engineering Curriculum - Turing School of Software and Design](https://backend.turing.edu/module2/lessons/)
 
 ## SSH
+
 - [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
 - [Diffie Hellman -the Mathematics bit- Computerphile](https://www.youtube.com/watch?v=Yjrfm_oRO0w)
 - [Key Exchange Problems - Computerphile](https://www.youtube.com/watch?v=vsXMMT2CqqE&t=)
 - [Elliptic Curves - Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+
+## SSH Keys
+
+- [How Secure Shell Works (SSH) - Computerphile](https://youtu.be/ORcvSkgdA58) - learn a little bit more about how SSH works internally
 
 ## Style Guides
 
