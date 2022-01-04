@@ -125,6 +125,12 @@
 
 - [CodePen](https://codepen.io/) - an online code editor and front end web developer community
 
+## Performance Optimization
+
+- [JPEG Optimizer](http://jpeg-optimizer.com/) - Compress and Resize Your Digital Photos
+- [TinyPNG](https://tinypng.com/) - Compress WebP, PNG and JPEG images intelligently
+
+
 ## Ruby
 
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#authorization) - a collection of awesome Ruby libraries, tools, frameworks and software
