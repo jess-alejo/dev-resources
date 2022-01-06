@@ -115,6 +115,7 @@
 - [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
 ## Motivation
+
 - [DevOps Roadmap](https://roadmap.sh/devops) - Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.
 
 ## NGINX
@@ -129,7 +130,8 @@
 
 - [JPEG Optimizer](http://jpeg-optimizer.com/) - Compress and Resize Your Digital Photos
 - [TinyPNG](https://tinypng.com/) - Compress WebP, PNG and JPEG images intelligently
-
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Make your web pages fast on all devices
+- [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
 
 ## Ruby
 
