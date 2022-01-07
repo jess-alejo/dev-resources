@@ -57,6 +57,11 @@
 - [Formspree](https://formspree.io/) - a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms.
 - [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/) - Easily generate the optimal responsive image dimensions
 
+## HTTP
+- [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+- [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+
+
 ## Icons
 
 - [Flaticon](https://www.flaticon.com/) - free icons in the largest database of free vector icons
