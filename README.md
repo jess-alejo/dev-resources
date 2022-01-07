@@ -122,6 +122,7 @@
 ## Motivation
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.
+- [Escaping tutorial hell and learning how to learn](https://medium.com/snake-charmer-python-and-analytics/escaping-tutorial-hell-and-learning-how-to-learn-e4ac53fed137)
 
 ## NGINX
 
