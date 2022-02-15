@@ -156,6 +156,7 @@
 - [Dockerize your Rails app](https://gist.github.com/hopsoft/c27da1a9fda405169994a004957597b4)
 - [FULL-STACK INTRODUCTION USING RAILS, REACT, DOCKER AND HEROKU](https://rowant.co.uk/full-stack-introduction-using-rails-react-docker-and-heroku/)
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
+- [The Turbo Rails Tutorial](https://www.hotrails.dev/) - Learn how to create modern, single-page, reactive web applications with Ruby on Rails 7 without writing any custom JavaScript code.
 - [How to install TailwindCSS v2.0 using Ruby on Rails](https://web-crunch.com/posts/how-to-install-tailwind-css-2-using-ruby-on-rails) - a walk through to the steps to ensure the current versions of Tailwind CSS and Ruby on Rails get along, install Tailwind CSS and configure it as well.
 - [Integrate HTML Bootstrap Theme Into Rails](https://rubyyagi.com/how-to-integrate-html-bootstrap-theme-into-rails-6/#copying-css-and-images) - How to integrate HTML / Bootstrap template into Rails 6
 - [Insert page specific CSS or JS using content_for](https://rubyyagi.com/page-specific-css-js/) - an article on how we can use `content_for` to insert CSS link files or JS script files.
