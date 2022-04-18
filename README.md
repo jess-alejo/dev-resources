@@ -49,8 +49,10 @@
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
 ## Git
-- [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- [conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub)
 - [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
 
 ## HTML
 
