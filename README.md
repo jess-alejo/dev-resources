@@ -23,6 +23,18 @@
 
 ## CSS
 
+### CSS Generators
+
+- [CSS Stripes Generator](https://stripesgenerator.com/) - pure CSS stripes generator you can use for backgrounds
+- [CSS Gradient](https://cssgradient.io/) - lets you create a colorful gradient background.
+- [Patternify](http://www.patternify.com/) - lets you create background patterns for free
+- [CSS Accordion Slider Generator](https://accordionslider.com/) - create fully responsive, CSS-only accordion sliders
+- [Layout Generator](https://grid.layoutit.com/) - quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually.
+- [Keyframes.app](https://keyframes.app/) - visual tool to help generate CSS with animations for your project.
+- [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) by Josh Comeau, build beautiful, lush gradients
+
+### Other CSS Resources
+
 - [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 - [CSS-Tricks](https://css-tricks.com/) - daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 - [cubic-bezier](https://cubic-bezier.com/) - a playground that helps you create your custom cubic bezier functions.
