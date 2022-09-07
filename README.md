@@ -1,7 +1,9 @@
 # Resources For Developers
 
 ## C#
+
 - [CSharpHelper](http://www.csharphelper.com/howto_index.html)
+
 ## CDN
 
 - [cdnjs](https://cdnjs.com/) - a free and open-source CDN service powered by Cloudflare for faster and easier loading of library files on your websites.
@@ -15,37 +17,49 @@
 - [Flexbox Zombies](https://mastery.games/flexboxzombies) - a brand new training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 - [Grid Garden](https://cssgridgarden.com/) - a game for learning CSS grid layout
 
-## Color Scheme
-
-- [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), CSS and html color codes.
-- [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
-- [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs.
-
 ## CSS
+
+### Animations
+
+- [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+- [Animista](https://animista.net/) - a CSS animation library where you can play with a collection of ready-made CSS animations.
+- [Easing Functions Cheat Sheet](https://easings.net/) - a collection of easings (timing functions).
+- [loading.io](https://loading.io/) - loading icons and animation generator
+- [Keyframes.app](https://keyframes.app/) - visual tool to help generate CSS with animations for your project.
 
 ### CSS Generators
 
-- [CSS Stripes Generator](https://stripesgenerator.com/) - pure CSS stripes generator you can use for backgrounds
+- [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - 100+ buttons you can use in your project.
+- [Color Hex](https://www.color-hex.com/) - an easy to use tool to get the color codes information including color models (RGB,HSL,HSV and CMYK), CSS and html color codes.
+- [Color Scheme Designer 3](https://colorschemedesigner.com/csd-3.5/) - a designer tool for creating color combinations that work together well.
+- [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs.
+- [CSS Accordion Slider Generator](https://accordionslider.com/) - create fully responsive, CSS-only accordion sliders.
 - [CSS Gradient](https://cssgradient.io/) - lets you create a colorful gradient background.
-- [Patternify](http://www.patternify.com/) - lets you create background patterns for free
-- [CSS Accordion Slider Generator](https://accordionslider.com/) - create fully responsive, CSS-only accordion sliders
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - you can set the numbers, and units of your columns and rows, and I'll generate a CSS grid for you!
+- [CSS Stripes Generator](https://stripesgenerator.com/) - pure CSS stripes generator you can use for backgrounds.
+- [cubic-bezier](https://cubic-bezier.com/) - a playground that helps you create your custom cubic bezier functions.
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) - build organic shapes with a CSS3 border-radius.
+- [Get Waves](https://getwaves.io/) - a free SVG wave generator to make unique SVG waves for your next web design.
+- [Glass Morphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - create stunning glass effect for your UI designs.
+- [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) by Josh Comeau, build beautiful, lush gradients.
+- [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 - [Layout Generator](https://grid.layoutit.com/) - quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually.
-- [Keyframes.app](https://keyframes.app/) - visual tool to help generate CSS with animations for your project.
-- [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) by Josh Comeau, build beautiful, lush gradients
+- [Neumorphism](https://neumorphism.io/) - CSS code generator that will help with colors, gradients, and shadows to adopt this new design trend or discover its posibilities.
+- [Patternify](http://www.patternify.com/) - lets you create background patterns for free
+- [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - create lush realistic shadows in CSS.
+
+### Frameworks
+
+- [Milligram](https://milligram.io/) - A minimalist CSS framework
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project
 
 ### Other CSS Resources
 
-- [Animate.css](https://animate.style/) - a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 - [CSS-Tricks](https://css-tricks.com/) - daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
-- [cubic-bezier](https://cubic-bezier.com/) - a playground that helps you create your custom cubic bezier functions.
-- [Easing Functions Cheat Sheet](https://easings.net/) - a collection of easings (timing functions).
-- [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
-- [loading.io](https://loading.io/) - loading icons and animation generator
-- [Milligram](https://milligram.io/) - A minimalist CSS framework
 - [Sass](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - Open source starter templates and components, a directory of handy building kits, generators, plugins and useful tools to kick start your Tailwind CSS project
 
 ## Emet
+
 - [Emmet](https://emmet.io/)
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
@@ -61,10 +75,10 @@
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
 ## Git
+
 - [conventional-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub)
 - [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
-
 
 ## HTML
 
@@ -72,9 +86,9 @@
 - [Responsive Image Breakpoints Generator](https://www.responsivebreakpoints.com/) - Easily generate the optimal responsive image dimensions
 
 ## HTTP
+
 - [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
-
 
 ## Icons
 
@@ -242,4 +256,5 @@ gem install rubocop
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ## Worth Investing
+
 - [CSS for JS](https://css-for-js.dev/) - The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.
