@@ -80,6 +80,12 @@
 - [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
+## Heroku Alternative
+
+- [cyclic](https://www.cyclic.sh/) - Fullstack Javascript Apps - Deploy and Host in Seconds
+- [Railway](https://railway.app/) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
+- [render](https://render.com/) - Cloud Application Hosting for Developers | Render
+
 ## HTML
 
 - [Formspree](https://formspree.io/) - a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms.
