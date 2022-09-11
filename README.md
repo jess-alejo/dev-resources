@@ -181,6 +181,12 @@
 - [Ruby Format String Examples](https://www.dotnetperls.com/format-ruby) - usage of the format string syntax. See examples for formatting values in many ways and compare performance against string interpolation
 - [Rubular](https://rubular.com/) - A Ruby-based regular expression editor
 
+### Style Guides
+
+- [FriendlyId gem adopt standard syntax](https://github.com/norman/friendly_id/pull/978/files) - shows a diff (file changes).
+- [Ruby Style Guide](https://airbnb.io/projects/ruby/) - Airbnb's Ruby Style Guide
+- [Ruby Style Guide](https://rubystyle.guide/) - recommends best practices so that real-world Ruby programmers can write code that can be maintained by other real-world Ruby programmers.
+
 ## Ruby on Rails
 
 - [Blogging on Rails](https://onrails.blog/stimulus-js-tutorials/) - Everything on Rails!
@@ -213,14 +219,11 @@
 
 - [How Secure Shell Works (SSH) - Computerphile](https://youtu.be/ORcvSkgdA58) - learn a little bit more about how SSH works internally
 
-## Style Guides
-
-Style Guides for various Languages
+## Style Guides for various Languages
 
 - [C#](https://github.com/raywenderlich/c-sharp-style-guide)
 - [Code Guide](https://codeguide.co/) - standards for developing consistent, flexible, and sustainable HTML and CSS
 - [JavaScript](https://github.com/airbnb/javascript)
-- [Ruby](https://rubystyle.guide/)
 - [TypeScript](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html#filename)
 
 ## Testing
