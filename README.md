@@ -114,13 +114,65 @@
 
 ## JavaScript
 
-- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - clean Code concepts adapted for JavaScript
-- [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links to further readings
+### Blogs
 
-* [Use console.log() like a pro!](https://denic.hashnode.dev/use-consolelog-like-a-pro)
+- [All JavaScript tips to go from junior to (senior) web developer](https://daily-dev-tips.com/tags/javascript/)
+- [All the JavaScript tutorials by flaviocopes](https://flaviocopes.com/tags/js/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [JavaScript blogs by Marko Denic](https://markodenic.com/category/javascript/)
+- [JavaScript blogs by Oliver Jumpertz](https://blog.oliverjumpertz.dev/tag/javascript?x-host=blog.oliverjumpertz.dev)
+- [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/)
+- [Use console.log() like a pro!](https://denic.hashnode.dev/use-consolelog-like-a-pro)
 
-## JavaScript Chart Libraries
+### Docs
+
+- [devdocs.io](https://devdocs.io/javascript/)
+- [w3docs.com](https://www.w3docs.com/learn-javascript.html)
+
+### Learning Platforms
+
+- [codecademy.com](https://www.codecademy.com/search?query=javascript)
+- [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [eloquentjavascript.net](https://eloquentjavascript.net/)
+- [freecodecamp.org](https://www.freecodecamp.org/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [javascript.info](https://javascript.info/)
+- [khanacademy.org](https://www.khanacademy.org/search?referer=%2F&page_search_query=javascript)
+- [learn-js.org](https://www.learn-js.org/)
+- [w3schools.com](https://www.w3schools.com/js/default.asp)
+
+### Free Hosting
+
+- [docs.gitlab.com](https://docs.gitlab.com/ee/user/project/pages/)
+- [firebase.google.com](https://firebase.google.com/)
+- [netlify.com](https://www.netlify.com/)
+- [pages.github.com](https://pages.github.com/)
+- [render.com](https://render.com/)
+- [surge.sh](https://surge.sh/)
+- [vercel.com](https://vercel.com/)
+
+### Coding Challenges
+
+- [codebyte.com](https://coderbyte.com/)
+- [codewars.com](https://www.codewars.com/)
+- [codingame.com](https://www.codingame.com/start)
+- [edabit.com](https://edabit.com/)
+- [exercism.org](https://exercism.org/)
+
+### Freelancing
+
+- [6nomads.com](https://6nomads.com/)
+- [fiverr.com](https://www.fiverr.com/)
+- [freelancer.com](https://www.freelancer.com/)
+- [guru.com](https://www.guru.com/)
+- [hireable.com](https://hireable.com/)
+- [peopleperhour.com](https://www.peopleperhour.com/)
+- [simplyhired.com](https://www.simplyhired.com/)
+- [toptal.com](https://www.toptal.com/)
+- [upwork.com](https://www.upwork.com/)
+
+### JavaScript Chart Libraries
 
 - [Chartist.js](https://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [FusionCharts](https://github.com/fusioncharts/fusioncharts-dist) - JavaScript charts for web & mobile
@@ -137,7 +189,7 @@
 - [Plottable.js](https://github.com/erichiller/plottable) - a library of chart components for creating flexible, custom charts for websites.
 - [Canvas.js](https://canvasjs.com/javascript-charts/) - JavaScript Charting Library with 10x better performance & a simple API.
 
-## JavaScript Games
+### JavaScript Games
 
 - [40+ FREE Games With Source Code (HTML+CSS+JavaScript)](http://www.iamrohit.in/free-games-source-code/)
 
