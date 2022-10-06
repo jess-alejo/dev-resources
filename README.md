@@ -241,25 +241,37 @@
 
 ## Ruby on Rails
 
+### Blogs
+
 - [Blogging on Rails](https://onrails.blog/stimulus-js-tutorials/) - Everything on Rails!
 - [Boring Rails](https://boringrails.com) - Learn about the boring tools and practices used by Basecamp, GitHub, and Shopify to keep you as happy and productive as the day you typed rails new
-- [Colyby.so](https://www.colby.so/) - David Colby writes about product management, web development, and building bootstrapped software companies.
+- [Colby.so](https://www.colby.so/) - David Colby writes about product management, web development, and building bootstrapped software companies.
 - [Deploying a rails application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html)
 - [Dockerize your Rails app](https://gist.github.com/hopsoft/c27da1a9fda405169994a004957597b4)
-- [FULL-STACK INTRODUCTION USING RAILS, REACT, DOCKER AND HEROKU](https://rowant.co.uk/full-stack-introduction-using-rails-react-docker-and-heroku/)
+- [Full-stack Introduction Using Rails, React, Docker and Heroku](https://rowant.co.uk/full-stack-introduction-using-rails-react-docker-and-heroku/)
 - [Getting started with Tailwind CSS on Rails 6](https://rubyyagi.com/tailwind-css-on-rails-6-intro/) - Integrate Tailwind CSS in your Ruby on Rails app
-- [The Turbo Rails Tutorial](https://www.hotrails.dev/) - Learn how to create modern, single-page, reactive web applications with Ruby on Rails 7 without writing any custom JavaScript code.
 - [How to install TailwindCSS v2.0 using Ruby on Rails](https://web-crunch.com/posts/how-to-install-tailwind-css-2-using-ruby-on-rails) - a walk through to the steps to ensure the current versions of Tailwind CSS and Ruby on Rails get along, install Tailwind CSS and configure it as well.
 - [Integrate HTML Bootstrap Theme Into Rails](https://rubyyagi.com/how-to-integrate-html-bootstrap-theme-into-rails-6/#copying-css-and-images) - How to integrate HTML / Bootstrap template into Rails 6
 - [Insert page specific CSS or JS using content_for](https://rubyyagi.com/page-specific-css-js/) - an article on how we can use `content_for` to insert CSS link files or JS script files.
 - [Just Another Twitter Clone with Rails 6, CableReady, and Stimulus Reflex](https://emmanuel-oseguera.medium.com/rails-cableready-and-stimulus-reflex-a90dc297a975)
-- [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
-- [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
 - [Rails Service Objects: A Comprehensive Guide](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) - This article discuss what is a service object, when to use it and what are pros and cons of using it.
 - [Recurring Subscriptions in One Day with Rails and Stripe](https://ryanboland.com/blog/one-day-stripe-integration) - An example of adding recurring Stripe subscriptions into your Rails SaaS app quickly and efficiently.
-- [Security Best Practices for Your Rails Application](https://blog.appsignal.com/2022/10/05/security-best-practices-for-your-rails-application.html)
+- [Turbo 7.2: A guide to Custom Turbo Stream Actions](https://marcoroth.dev/posts/guide-to-custom-turbo-stream-actions)
+
+### Testing
+
+- [Learn Ruby on Rails Testing](https://www.codewithjason.com/) - learn about Ruby on Rails testing through articles, videos and podcast episodes.
 - [Test Driven Rails](https://thoughtbot.com/upcase/test-driven-rails) - Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
+
+### Tutorials
+
 - [Lessons - Back-End Engineering Curriculum - Turing School of Software and Design](https://backend.turing.edu/module2/lessons/)
+- [Rails Code Along](https://railscodealong.com/lessons/install-rails-and-push-to-github) - learn to create Rails app from start to finish
+- [The Turbo Rails Tutorial](https://www.hotrails.dev/) - Learn how to create modern, single-page, reactive web applications with Ruby on Rails 7 without writing any custom JavaScript code.
+
+### Security
+
+- [Security Best Practices for Your Rails Application](https://blog.appsignal.com/2022/10/05/security-best-practices-for-your-rails-application.html)
 
 ## SSH
 
