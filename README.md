@@ -72,6 +72,7 @@
 
 - [Awesome](https://github.com/sindresorhus/awesome) - awesome lists about all kinds of interesting topics
 - [Free for developers](https://free-for.dev/#/)
+- [The Valley of Code](https://thevalleyofcode.com/) - Free Handbooks for Web Developers
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
 
 ## Git
