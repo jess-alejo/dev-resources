@@ -228,17 +228,75 @@
 
 ## Ruby
 
+### Reading Recommendation
+
+cto [Witczax](https://www.witczax.com/?utm_source=substack&utm_medium=email)
+
+**Pick one of these:**
+
+- 2022 - Ruby On Rails Tutorial - Michael Hartl
+- 2019 - The Well-Grounded Rubyist (3rd edition) - David A. Black / Joseph Leo III
+- 2014 - Learn Ruby the Hard Way (3rd edition) - Zed A.Shaw
+- 2013 - Programming Ruby 1.9 & 2.0 (The Pragmatic Programmer's Guide) - Dave Thomas
+
+**Learn Rails:**
+
+- 2022 - Agile Web Development with Rails 7 - Sam Ruby with Dave Thomas
+- 2020 - Sustainable Web Development with Ruby on Rails - David Bryant Copeland
+- 2022 - Modern Front-End Development for Rails (2nd edition) | Hotwire, Stimulus, Turbo, and React - Noel Rapping
+
+**Learn Best Practices:**
+
+- 2013 - Confident Ruby - Avdi Grimm
+- 2011 - Exceptional Ruby - Avdi Grimm
+- 2007 - Design Patterns in Ruby - Russ Olsen
+- 2021 - 99 Bottles of OOP
+- 2009 - Refactoring (Ruby Edition)
+- 2009 - Ruby Best Practices
+- 2021 - Polished Ruby Programming
+- 2018 - Practical Object-Orientted Design - Sandi Metz
+- 2014 - Effective Ruby
+
+**Testing:**
+
+- 2022 - The Complete Guide to Rails Testing - Json Swett
+- 2019 - Rails 5 Test Prescriptions
+- 2017 - Effective Testing with RSpec 3
+
+**Optional - go deeper:**
+
+- 2015 - Text Processing with Ruby
+- 2015 - Ruby Performance Optimization
+- 2014 - Metaprogramming Ruby 2
+- 2013 - Ruby Under a Microscope
+- 2013 - Understanding Computation
+- 2013 - Kestrels, Quirky Birds, and Hopeless Egocentricity
+
+**Deployment:**
+
+- 2022 - Deployment from Scratch
+- 2019 - Docker for Rails Developers
+
+**Security:**
+
+- 2022 - [rubyfu.net](https://rubyfu.net/)
+
+### Ruby Blogs
+
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#authorization) - a collection of awesome Ruby libraries, tools, frameworks and software
 - [Long live Ruby](https://longliveruby.com/) - Home for the Ruby programming language and all related topics like Ruby on Rails, Sinatra other Ruby frameworks, and ruby gems
 - [Programming Ruby - The Pragmatic Programmer's Guide](http://docs.ruby-doc.com/docs/ProgrammingRuby/) - a tutorial and reference for the Ruby programming language.
 - [Ruby Format String Examples](https://www.dotnetperls.com/format-ruby) - usage of the format string syntax. See examples for formatting values in many ways and compare performance against string interpolation
-- [Rubular](https://rubular.com/) - A Ruby-based regular expression editor
 
 ### Style Guides
 
 - [FriendlyId gem adopt standard syntax](https://github.com/norman/friendly_id/pull/978/files) - shows a diff (file changes).
 - [Ruby Style Guide](https://airbnb.io/projects/ruby/) - Airbnb's Ruby Style Guide
 - [Ruby Style Guide](https://rubystyle.guide/) - recommends best practices so that real-world Ruby programmers can write code that can be maintained by other real-world Ruby programmers.
+
+### Ruby Utilities
+
+- [Rubular](https://rubular.com/) - A Ruby-based regular expression editor
 
 ## Ruby on Rails
 
